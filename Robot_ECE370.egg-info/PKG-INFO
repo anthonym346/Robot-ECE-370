@@ -1,0 +1,13 @@
+Metadata-Version: 2.1
+Name: Robot-ECE370
+Version: 1.2.1
+Summary: A package to control a robot using a feather m0, IMU, IR sensors, and DRV8833 motor driver
+Home-page: https://github.com/anthonym346/Robot-ECE-370/
+Author: Anthony Matthews
+Author-email: amatthe9@gmu.edu
+License: UNKNOWN
+Description: # Robot-ECE-370
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 2.7
+Classifier: License :: OSI Approved :: GNU General Public License v3 (GPLv3)
+Description-Content-Type: text/markdown
